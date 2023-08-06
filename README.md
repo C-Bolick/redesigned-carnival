@@ -1,29 +1,31 @@
-## Upgraded-giggle-09
-Challenge 09 
-
+# redesigned-carnival
+Challenge 10
 ## Description
-This is a program that is utilized in a terminal's command line.
-Once the program is started, you will be prompted with a series of questions.
-After answering all the questions, the program will create a README file.
-You should see a README in your files.
+
+User Story:
+AS a freelance web developer
+I WANT to generate a simple logo for my projects
+SO THAT I don't have to pay a graphic designer
+
+This app is fully functional in the command line and allows the user to design a basic logo that they desire.
+The user will be prompted with some questions such as shape, color, and text. Once answered thei logo will be
+generated in a .svg file that can be opened up on a web browser for them to look at.
 
 ## Installation
 
-You will need to import inquirer and nodes before running the app.
-As shown in the video, you will us this app all within a terminal window. Once you have installed all the nessecary programs you can run the app.
-Once all the prompts have been answered a README.md will be generated using the info the user has submittied.
+The user will need to install the required npm packages before using the application.
+Once the user has all the data needed, the user can then start the app by typing: 'node index.js'
+in the command line. The user will be prompted with a series of questions and once all have been asnwered
+a mock up of their logo will be viewable.
 
 ## Usage
 
-This application will help you to draft up a mock README.md without the users having to set up the formatting first. The user can then go into the newly generated README.md and format it to whatever they see fit.
+This application is a way to create a mock up basic logo for any uses its needed for.
 
 Credit
 Catherine Bolick : https://github.com/C-Bolick
-
 ## License
 
 N/A
 
-![Alt text](image.png)
-
-https://drive.google.com/file/d/126YCTpC9iXsZb4NGfesJO2C1y3vIRky3/view
+![Alt text](img.png) 
